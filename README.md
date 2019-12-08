@@ -4,3 +4,4 @@
 #### Date: 2019-12-8
 Numerical Model<br>
 ![Numerical Model](https://github.com/JiahaoXia/EI_Assignment3/blob/master/img/numerical%20model.png)
+<img src="https://github.com/JiahaoXia/EI_Assignment3/blob/master/img/numerical%20model.png" width=60>
